@@ -1,1 +1,1 @@
-# -exploring-landscape-affordance-se-norway
+# exploring-landscape-affordance-se-norway
