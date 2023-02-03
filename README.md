@@ -1,1 +1,1 @@
-# exploring-affordance-se-norway
+# exploring-affordances-se-norway
