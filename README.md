@@ -17,6 +17,7 @@ The natural variables follow the source data from freely available mapped datase
 -	Suitable agricultural soil: The Norwegian Institute of Bioeconomy Researc
 
 This data is under the Norwegian Licence for Open Government Data (NLOD) 2.0: https://data.norge.no/nlod/en/2.0
+
 The variable sea has no direct source data, but DEM were clipped after shoreline displacement data (Prøsch-Danielsen 1997; Sørensen 2002; Romundset et al. 2014; Sørensen et al. 2014). 
 
 Accept from information retrieved from reviewing excavation reports, the data on the cultural variables is not open. All utilized reports are searchable after site names in duo.uio.no, community ‘Museene’ and then ‘Kulturhistorisk museum’. The remaining data have been retrieved from archaeological databases which are semi-open, belonging to Norwegian cultural resource management (CRM). Information on sites and finds are from the Norwegian museum’s database Unimus/Musit (partly accessible from unimus.no but the database itself is for cultural heritage personnel), while rock art sites and grave contexts are from The Directorate for Cultural Heritage’s database Askeladden (askeladden.ra.no). This his is not open, but you can apply for access, the site kulturminnesok.no, holding some of the same information, is freely available. 
