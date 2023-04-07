@@ -1,4 +1,4 @@
-This repository holds data, code, figures, and text files on additional methodological explanations and further details on selections for the paper Sand-Eriksen, A. Forthcoming. Exploring affordances: Late Neolithic and Bronze Age settlement locations and human-environment engagements in southeast Norway 
+This repository holds data, code, figures, and a compendium with additional methodological explanations and further details on selections for the paper Sand-Eriksen, A. Forthcoming. "Exploring affordances: Late Neolithic and Bronze Age settlement locations and human-environment engagements in southeast Norway"
 
 ### 1. GIS and Access
 All GIS analyses were run in QGIS 3.16.14-Hannover (Q. D. Team 2020). The coordinate system used is WGS84/UTM zone 32N (EPSG:32632). All attribute table exported from QGIS, were unified into one excel-file using Microsoft Access 2016 available as Dataset.xlxs
